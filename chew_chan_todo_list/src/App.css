@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
+.notcompleted{
+  text-decoration: none;
+}
